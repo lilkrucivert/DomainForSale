@@ -15,3 +15,5 @@ Jeśli chcesz sprzedać swoją domenę, możesz użyć tej strony jako swoją re
 - OTWARTO-ŹRÓDŁOWA: Ta strona jest otwarto źródłowa co oznacza że jest bezpieczna w użyciu
 - PROSTOTA: Jest bardzo prosta
 - EDYTOWALNA: Ta strona jest bardzo łatwo edytowalna 
+
+![image](https://user-images.githubusercontent.com/71393671/148272800-f8572ec2-59ac-4d2e-b0a1-625ee5569828.png)
